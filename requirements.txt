@@ -1,5 +1,7 @@
-flask
-flask_session
-msal
-pyodbc
-azure-storage-blob
+Flask==2.3.0
+msal==1.24.0
+pyodbc==4.0.39
+azure-storage-blob==12.17.0
+gunicorn==21.2.0
+python-dotenv==1.0.0
+Werkzeug==2.3.0
